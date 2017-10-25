@@ -1,1 +1,5 @@
-this is a readme
+# **PROJECT: BABG**
+
+---
+
+BABG is my personal REACT JS learning project.
