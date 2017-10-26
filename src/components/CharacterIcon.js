@@ -5,8 +5,8 @@ class CharacterIcon extends Component {
         let {charText} = this.props;
       return (
           <div>
-          { charText }
-        </div>
+            {charText}
+          </div>
       );
     }
 

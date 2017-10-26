@@ -6,7 +6,7 @@ class Body extends Component {
       let {labelText} = this.props;
     return (
         <p className="App-intro">
-        { labelText }
+        {labelText}
       </p>
     );
   }
